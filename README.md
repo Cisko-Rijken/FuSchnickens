@@ -1,10 +1,4 @@
-# FuSchnickens
-FU don take it personal
+# Green Goose
+This is a testfile as to start with indicators of so called green gooses.
 
-First of all this is a test
-
-I like to built but be4 I start I will first educate myself and then...
-
-
-CU aROUND!!!
-
+Stay tuned
